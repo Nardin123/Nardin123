@@ -10,7 +10,7 @@ def sistema():
                 break
            
         except ValueError:
-            print("Isso não é um número entre 1 e 10 moço")
+            print("Isso não é um número moço")
 
 
 sistema()
