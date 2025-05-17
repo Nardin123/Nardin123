@@ -7,3 +7,6 @@ def borda(s1):
         print('+', '-' * tam, '+')
 
 borda('Felippe Nardin Marques Maciel')
+
+
+help(print)
