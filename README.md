@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Felippe! A mobile developer passionate about technology.
 
-  - 🌱 I am currently studying Computer Science at Uninter src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flutter_logo.svg" />
+  - 🌱 I am currently studying Computer Science at Uninter <img align="center" alt="html5" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flutter_logo.svg" />
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
