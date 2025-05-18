@@ -38,6 +38,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Nardin123/Nardin123/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://nardin123.github.io/Nardin123/snake.svg" alt="snake animation"/>
+</div>
 
 ###
