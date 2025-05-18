@@ -8,6 +8,7 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -18,6 +19,11 @@ jobs:
           github_user_name: Nardin123
           outputs: |
             ./dist/snake.svg
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Push the snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3
