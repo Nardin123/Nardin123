@@ -1,4 +1,4 @@
-<h2 align="left">Oi 👋! Eu sou o Nardin, desenvolvedor mobile apaixonado por tecnologia e ciclos de sono inteligentes! 😴📱</h2>
+<h2 align="left">Oi 👋! Eu sou o Nardin, desenvolvedor mobile apaixonado por tecnologia! 😴📱</h2>
 
 ###
 
