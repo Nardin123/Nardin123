@@ -1,4 +1,4 @@
-<h2 align="left">Oi 👋! Eu sou o Nardin, desenvolvedor mobile apaixonado por tecnologia! 😴📱</h2>
+<h2 align="left">Hi 👋!My name is Nardin, a mobile developer passionate about technology! 😴📱</h2>
 
 ###
 
@@ -38,6 +38,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Nardin123/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Nardin123/Nardin123/output/snake.svg" alt="Snake animation" />
 
 ###
